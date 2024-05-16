@@ -2,7 +2,13 @@ tes fadlan
 ubah di branch baru
 
 
+<<<<<<< HEAD
 tessss
 
 sadkjasdakjsa
 sadbajsbdjashdjjas
+=======
+
+
+tes123 amad
+>>>>>>> adb21c1159307153afe1bba6dd9eb41c9d483e13

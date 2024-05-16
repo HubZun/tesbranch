@@ -7,5 +7,10 @@ test3
 
 test 4 bisas gak
 
+<<<<<<< HEAD
 jbasdjbasjdashd
 sadsakdhkasdkasd
+=======
+
+ahmad123
+>>>>>>> adb21c1159307153afe1bba6dd9eb41c9d483e13
